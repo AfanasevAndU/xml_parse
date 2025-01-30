@@ -1,0 +1,31 @@
+<packet>
+<zglv>
+<type/>
+<version>1.0</version>
+<date>26.09.2018</date>
+</zglv>
+<zap>
+<IDVN>1</IDVN>
+<N_VN>Направление к онкологу</N_VN>
+<DATEBEG>01.09.2018</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDVN>2</IDVN>
+<N_VN>Направление на биопсию</N_VN>
+<DATEBEG>01.09.2018</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDVN>3</IDVN>
+<N_VN>Направление на дообследование</N_VN>
+<DATEBEG>01.09.2018</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDVN>4</IDVN>
+<N_VN>Направление для определения тактики обследования и/или тактики лечения</N_VN>
+<DATEBEG>01.09.2018</DATEBEG>
+<DATEEND/>
+</zap>
+</packet>

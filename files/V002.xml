@@ -1,0 +1,979 @@
+<packet>
+<zglv>
+<type>ProfOt</type>
+<version>3.4</version>
+<date>04.08.2022</date>
+</zglv>
+<zap>
+<IDPR>1</IDPR>
+<PRNAME>хирургии (абдоминальной)</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>3</IDPR>
+<PRNAME>акушерскому делу</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>4</IDPR>
+<PRNAME>аллергологии и иммунологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>5</IDPR>
+<PRNAME>анестезиологии и реаниматологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>6</IDPR>
+<PRNAME>бактериологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND>31.07.2022</DATEEND>
+</zap>
+<zap>
+<IDPR>6</IDPR>
+<PRNAME>медицинской микробиологии</PRNAME>
+<DATEBEG>01.08.2022</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>7</IDPR>
+<PRNAME>вирусологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND>31.07.2022</DATEEND>
+</zap>
+<zap>
+<IDPR>8</IDPR>
+<PRNAME>военно-врачебной экспертизе</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>10</IDPR>
+<PRNAME>врачебно-летной экспертизе</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>11</IDPR>
+<PRNAME>гастроэнтерологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>12</IDPR>
+<PRNAME>гематологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>13</IDPR>
+<PRNAME>генетике</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>14</IDPR>
+<PRNAME>гериатрии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>15</IDPR>
+<PRNAME>гистологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>16</IDPR>
+<PRNAME>дерматовенерологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>17</IDPR>
+<PRNAME>детской кардиологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>18</IDPR>
+<PRNAME>детской онкологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>19</IDPR>
+<PRNAME>детской урологии-андрологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>20</IDPR>
+<PRNAME>детской хирургии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>21</IDPR>
+<PRNAME>детской эндокринологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>22</IDPR>
+<PRNAME>диабетологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND>31.07.2022</DATEEND>
+</zap>
+<zap>
+<IDPR>23</IDPR>
+<PRNAME>диетологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>27</IDPR>
+<PRNAME>забору гемопоэтических стволовых клеток</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>28</IDPR>
+<PRNAME>инфекционным болезням</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>29</IDPR>
+<PRNAME>кардиологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>30</IDPR>
+<PRNAME>колопроктологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>34</IDPR>
+<PRNAME>клинической лабораторной диагностике</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>35</IDPR>
+<PRNAME>клинической микологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND>31.07.2022</DATEEND>
+</zap>
+<zap>
+<IDPR>36</IDPR>
+<PRNAME>клинической фармакологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>37</IDPR>
+<PRNAME>лабораторному делу</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>38</IDPR>
+<PRNAME>лабораторной диагностике</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>39</IDPR>
+<PRNAME>лабораторной микологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND>31.07.2022</DATEEND>
+</zap>
+<zap>
+<IDPR>40</IDPR>
+<PRNAME>лабораторной генетике</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>41</IDPR>
+<PRNAME>лечебной физкультуре и спортивной медицине</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND>31.07.2022</DATEEND>
+</zap>
+<zap>
+<IDPR>41</IDPR>
+<PRNAME>спортивной медицине</PRNAME>
+<DATEBEG>01.08.2022</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>42</IDPR>
+<PRNAME>лечебному делу</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>43</IDPR>
+<PRNAME>мануальной терапии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>45</IDPR>
+<PRNAME>медицинской генетике</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND>31.07.2022</DATEEND>
+</zap>
+<zap>
+<IDPR>46</IDPR>
+<PRNAME>медицинскому массажу</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>47</IDPR>
+<PRNAME>медицинской оптике</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>48</IDPR>
+<PRNAME>медицинским осмотрам (предварительным, периодическим)</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>49</IDPR>
+<PRNAME>медицинским осмотрам (предрейсовым, послерейсовым)</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND>31.07.2022</DATEEND>
+</zap>
+<zap>
+<IDPR>49</IDPR>
+<PRNAME>медицинским осмотрам (предсменным, предрейсовым, послесменным, послерейсовым)</PRNAME>
+<DATEBEG>01.08.2022</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>50</IDPR>
+<PRNAME>медицинским осмотрам (предполетным, послеполетным)</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>51</IDPR>
+<PRNAME>медицинской статистике</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>53</IDPR>
+<PRNAME>неврологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>54</IDPR>
+<PRNAME>нейрохирургии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>55</IDPR>
+<PRNAME>неонатологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>56</IDPR>
+<PRNAME>нефрологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>57</IDPR>
+<PRNAME>общей врачебной практике (семейной медицине)</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>58</IDPR>
+<PRNAME>общей практике</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>60</IDPR>
+<PRNAME>онкологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>61</IDPR>
+<PRNAME>операционному делу</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND>31.07.2022</DATEEND>
+</zap>
+<zap>
+<IDPR>62</IDPR>
+<PRNAME>организации сестринского дела</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND>31.07.2022</DATEEND>
+</zap>
+<zap>
+<IDPR>62</IDPR>
+<PRNAME>реабилитационному сестринскому делу</PRNAME>
+<DATEBEG>01.08.2022</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>63</IDPR>
+<PRNAME>ортодонтии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>65</IDPR>
+<PRNAME>офтальмологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>66</IDPR>
+<PRNAME>паразитологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND>31.07.2022</DATEEND>
+</zap>
+<zap>
+<IDPR>67</IDPR>
+<PRNAME>патологической анатомии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>68</IDPR>
+<PRNAME>педиатрии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>71</IDPR>
+<PRNAME>профпатологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>72</IDPR>
+<PRNAME>психиатрии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>73</IDPR>
+<PRNAME>психиатрии-наркологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>74</IDPR>
+<PRNAME>психотерапии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>75</IDPR>
+<PRNAME>пульмонологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>76</IDPR>
+<PRNAME>радиологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>77</IDPR>
+<PRNAME>ревматологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>78</IDPR>
+<PRNAME>рентгенологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>79</IDPR>
+<PRNAME>рефлексотерапии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>80</IDPR>
+<PRNAME>сексологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND>31.07.2022</DATEEND>
+</zap>
+<zap>
+<IDPR>81</IDPR>
+<PRNAME>сердечно-сосудистой хирургии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>82</IDPR>
+<PRNAME>сестринскому делу</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>83</IDPR>
+<PRNAME>сестринскому делу в педиатрии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>84</IDPR>
+<PRNAME>скорой медицинской помощи</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>85</IDPR>
+<PRNAME>стоматологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>86</IDPR>
+<PRNAME>стоматологии детской</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>87</IDPR>
+<PRNAME>стоматологии профилактической</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>88</IDPR>
+<PRNAME>стоматологии ортопедической</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>89</IDPR>
+<PRNAME>стоматологии терапевтической</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>90</IDPR>
+<PRNAME>стоматологии хирургической</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>91</IDPR>
+<PRNAME>судебно-медицинской экспертизе</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>93</IDPR>
+<PRNAME>судебно-медицинской экспертизе и исследованию трупа</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND>31.07.2022</DATEEND>
+</zap>
+<zap>
+<IDPR>93</IDPR>
+<PRNAME>стационарной судебно-психиатрической экспертизе</PRNAME>
+<DATEBEG>01.08.2022</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>94</IDPR>
+<PRNAME>судебно-медицинской экспертизе и обследованию потерпевших, обвиняемых и других лиц</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND>31.07.2022</DATEEND>
+</zap>
+<zap>
+<IDPR>95</IDPR>
+<PRNAME>судебно-психиатрической экспертизе</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND>31.07.2022</DATEEND>
+</zap>
+<zap>
+<IDPR>95</IDPR>
+<PRNAME>амбулаторной судебно-психиатрической экспертизе</PRNAME>
+<DATEBEG>01.08.2022</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>96</IDPR>
+<PRNAME>сурдологии-оториноларингологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>97</IDPR>
+<PRNAME>терапии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>98</IDPR>
+<PRNAME>токсикологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>99</IDPR>
+<PRNAME>торакальной хирургии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>100</IDPR>
+<PRNAME>травматологии и ортопедии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>103</IDPR>
+<PRNAME>транспортировке гемопоэтических стволовых клеток и костного мозга</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>104</IDPR>
+<PRNAME>транспортировке органов и (или) тканей человека для трансплантации</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>105</IDPR>
+<PRNAME>трансфузиологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>106</IDPR>
+<PRNAME>ультразвуковой диагностике</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>107</IDPR>
+<PRNAME>управлению сестринской деятельностью</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND>31.07.2022</DATEEND>
+</zap>
+<zap>
+<IDPR>108</IDPR>
+<PRNAME>урологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>109</IDPR>
+<PRNAME>физиотерапии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>110</IDPR>
+<PRNAME>фтизиатрии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>111</IDPR>
+<PRNAME>функциональной диагностике</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>112</IDPR>
+<PRNAME>хирургии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>113</IDPR>
+<PRNAME>хирургии (трансплантации органов и (или) тканей)</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND>07.07.2013</DATEEND>
+</zap>
+<zap>
+<IDPR>114</IDPR>
+<PRNAME>хирургии (комбустиологии)</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>115</IDPR>
+<PRNAME>хранению гемопоэтических стволовых клеток</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>116</IDPR>
+<PRNAME>челюстно-лицевой хирургии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>117</IDPR>
+<PRNAME>экспертизе временной нетрудоспособности</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>120</IDPR>
+<PRNAME>экспертизе профессиональной пригодности</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>121</IDPR>
+<PRNAME>экспертизе связи заболеваний с профессией</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>122</IDPR>
+<PRNAME>эндокринологии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>123</IDPR>
+<PRNAME>эндоскопии</PRNAME>
+<DATEBEG>01.01.2011</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>135</IDPR>
+<PRNAME>авиационной и космической медицине</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>136</IDPR>
+<PRNAME>акушерству и гинекологии (за исключением использования вспомогательных репродуктивных технологий)</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND>11.12.2017</DATEEND>
+</zap>
+<zap>
+<IDPR>136</IDPR>
+<PRNAME>акушерству и гинекологии (за исключением использования вспомогательных репродуктивных технологий и искусственного прерывания беременности)</PRNAME>
+<DATEBEG>12.12.2017</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>137</IDPR>
+<PRNAME>акушерству и гинекологии (использованию вспомогательных репродуктивных технологий)</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>138</IDPR>
+<PRNAME>вакцинации (проведению профилактических прививок)</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>139</IDPR>
+<PRNAME>водолазной медицине</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>140</IDPR>
+<PRNAME>гигиене в стоматологии</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>141</IDPR>
+<PRNAME>гигиеническому воспитанию</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND>31.07.2022</DATEEND>
+</zap>
+<zap>
+<IDPR>142</IDPR>
+<PRNAME>дезинфектологии</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND>31.07.2022</DATEEND>
+</zap>
+<zap>
+<IDPR>143</IDPR>
+<PRNAME>забору, криоконсервации и хранению половых клеток и тканей репродуктивных органов</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>144</IDPR>
+<PRNAME>заготовке, хранению донорской крови и (или) ее компонентов</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>145</IDPR>
+<PRNAME>изъятию и хранению органов и (или) тканей человека для трансплантации</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>146</IDPR>
+<PRNAME>косметологии</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>147</IDPR>
+<PRNAME>лечебной физкультуре</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>148</IDPR>
+<PRNAME>медико-социальной экспертизе</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>149</IDPR>
+<PRNAME>медико-социальной помощи</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>150</IDPR>
+<PRNAME>медицинским осмотрам (предсменным, послесменным)</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND>31.07.2022</DATEEND>
+</zap>
+<zap>
+<IDPR>151</IDPR>
+<PRNAME>медицинским осмотрам профилактическим</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>152</IDPR>
+<PRNAME>медицинскому освидетельствованию кандидатов в усыновители, опекуны (попечители) или приемные родители</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>153</IDPR>
+<PRNAME>медицинскому освидетельствованию на выявление ВИЧ-инфекции</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>154</IDPR>
+<PRNAME>медицинскому освидетельствованию на наличие инфекционных заболеваний, представляющих опасность для окружающих и являющихся основанием для отказа иностранным гражданам и лицам без гражданства в выдаче либо аннулировании разрешения на временное проживание, или вида на жительство, или разрешения на работу в Российской Федерации</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>155</IDPR>
+<PRNAME>медицинскому освидетельствованию на наличие медицинских противопоказаний к управлению транспортным средством</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>156</IDPR>
+<PRNAME>медицинскому освидетельствованию на наличие медицинских противопоказаний к владению оружием</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>157</IDPR>
+<PRNAME>медицинскому освидетельствованию на состояние опьянения (алкогольного, наркотического или иного токсического)</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>158</IDPR>
+<PRNAME>медицинской реабилитации</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>159</IDPR>
+<PRNAME>наркологии</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND>31.07.2022</DATEEND>
+</zap>
+<zap>
+<IDPR>160</IDPR>
+<PRNAME>неотложной медицинской помощи</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>161</IDPR>
+<PRNAME>организации здравоохранения и общественному здоровью</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND>31.07.2022</DATEEND>
+</zap>
+<zap>
+<IDPR>162</IDPR>
+<PRNAME>оториноларингологии (за исключением кохлеарной имплантации)</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>163</IDPR>
+<PRNAME>оториноларингологии (кохлеарной имплантации)</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>164</IDPR>
+<PRNAME>пластической хирургии</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>165</IDPR>
+<PRNAME>психиатрическому освидетельствованию</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>166</IDPR>
+<PRNAME>радиотерапии</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>167</IDPR>
+<PRNAME>реаниматологии</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>168</IDPR>
+<PRNAME>рентгенэндоваскулярной диагностике и лечению</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>169</IDPR>
+<PRNAME>санитарно-гигиеническим лабораторным исследованиям</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>170</IDPR>
+<PRNAME>сестринскому делу в косметологии</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>171</IDPR>
+<PRNAME>стоматологии общей практики</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>172</IDPR>
+<PRNAME>судебно-медицинской экспертизе вещественных доказательств и исследованию биологических объектов (биохимической, генетической, медико-криминалистической, спектрографической, судебно-биологической, судебно-гистологической, судебно-химической, судебно-цитологической, химико-токсикологической)</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND>31.07.2022</DATEEND>
+</zap>
+<zap>
+<IDPR>173</IDPR>
+<PRNAME>однородной амбулаторной судебно-психиатрической экспертизе</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND>31.07.2022</DATEEND>
+</zap>
+<zap>
+<IDPR>174</IDPR>
+<PRNAME>комплексной амбулаторной судебно-психиатрической экспертизе</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND>31.07.2022</DATEEND>
+</zap>
+<zap>
+<IDPR>175</IDPR>
+<PRNAME>однородной стационарной судебно-психиатрической экспертизе</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND>31.07.2022</DATEEND>
+</zap>
+<zap>
+<IDPR>176</IDPR>
+<PRNAME>комплексной стационарной судебно-психиатрической экспертизе (психолого-психиатрической, сексолого-психиатрической)</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND>31.07.2022</DATEEND>
+</zap>
+<zap>
+<IDPR>177</IDPR>
+<PRNAME>трансплантации костного мозга и гемопоэтических стволовых клеток</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>178</IDPR>
+<PRNAME>транспортировке половых клеток и (или) тканей репродуктивных органов</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>179</IDPR>
+<PRNAME>хирургии (трансплантации органов и (или) тканей)</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>180</IDPR>
+<PRNAME>экспертизе качества медицинской помощи</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>181</IDPR>
+<PRNAME>энтомологии</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND>31.07.2022</DATEEND>
+</zap>
+<zap>
+<IDPR>182</IDPR>
+<PRNAME>эпидемиологии</PRNAME>
+<DATEBEG>08.07.2013</DATEBEG>
+<DATEEND>31.07.2022</DATEEND>
+</zap>
+<zap>
+<IDPR>182</IDPR>
+<PRNAME>организации здравоохранения и общественному здоровью, эпидемиологии</PRNAME>
+<DATEBEG>01.08.2022</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>184</IDPR>
+<PRNAME>акушерству и гинекологии (искусственному прерыванию беременности)</PRNAME>
+<DATEBEG>12.12.2017</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDPR>185</IDPR>
+<PRNAME>остеопатии</PRNAME>
+<DATEBEG>07.07.2017</DATEBEG>
+<DATEEND/>
+</zap>
+</packet>

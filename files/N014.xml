@@ -1,0 +1,43 @@
+<packet>
+<zglv>
+<type>OnkHir</type>
+<version>1.3</version>
+<date>13.12.2018</date>
+</zglv>
+<zap>
+<ID_THir>1</ID_THir>
+<THir_NAME>Первичной опухоли, в том числе с удалением регионарных лимфатических узлов</THir_NAME>
+<DATEBEG>01.09.2018</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<ID_THir>2</ID_THir>
+<THir_NAME>Метастазов</THir_NAME>
+<DATEBEG>01.09.2018</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<ID_THir>3</ID_THir>
+<THir_NAME>Симптоматическое, реконструктивно-пластическое, хирургическая овариальная суперссия, прочее</THir_NAME>
+<DATEBEG>01.09.2018</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<ID_THir>4</ID_THir>
+<THir_NAME>Выполнено хирургическое стадирование (может указываться при раке яичника вместо "1")</THir_NAME>
+<DATEBEG>01.09.2018</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<ID_THir>5</ID_THir>
+<THir_NAME>Регионарных лимфатических узлов без первичной опухоли</THir_NAME>
+<DATEBEG>01.09.2018</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<ID_THir>6</ID_THir>
+<THir_NAME>Криохирургия/криотерапия, лазерная деструкция, фотодинамическая терапия</THir_NAME>
+<DATEBEG>01.09.2018</DATEBEG>
+<DATEEND/>
+</zap>
+</packet>

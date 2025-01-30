@@ -1,0 +1,55 @@
+<packet>
+<zglv>
+<type>OnkLek_L</type>
+<version>1.1</version>
+<date>30.08.2018</date>
+</zglv>
+<zap>
+<ID_TLek_L>1</ID_TLek_L>
+<TLek_NAME_L>Первая линия</TLek_NAME_L>
+<DATEBEG>01.09.2018</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<ID_TLek_L>2</ID_TLek_L>
+<TLek_NAME_L>Вторая линия</TLek_NAME_L>
+<DATEBEG>01.09.2018</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<ID_TLek_L>3</ID_TLek_L>
+<TLek_NAME_L>Третья линия</TLek_NAME_L>
+<DATEBEG>01.09.2018</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<ID_TLek_L>4</ID_TLek_L>
+<TLek_NAME_L>Линия после третьей</TLek_NAME_L>
+<DATEBEG>01.09.2018</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<ID_TLek_L>5</ID_TLek_L>
+<TLek_NAME_L>Неоадъювантная</TLek_NAME_L>
+<DATEBEG>01.09.2018</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<ID_TLek_L>6</ID_TLek_L>
+<TLek_NAME_L>Адъювантная</TLek_NAME_L>
+<DATEBEG>01.09.2018</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<ID_TLek_L>7</ID_TLek_L>
+<TLek_NAME_L>Периоперационная (до хирургического лечения)</TLek_NAME_L>
+<DATEBEG>01.09.2018</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<ID_TLek_L>8</ID_TLek_L>
+<TLek_NAME_L>Периоперационная (после хирургического лечения)</TLek_NAME_L>
+<DATEBEG>01.09.2018</DATEBEG>
+<DATEEND/>
+</zap>
+</packet>

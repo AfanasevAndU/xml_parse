@@ -1,0 +1,25 @@
+<packet>
+<zglv>
+<type>OnkLuch</type>
+<version>1.1</version>
+<date>14.12.2018</date>
+</zglv>
+<zap>
+<ID_TLuch>1</ID_TLuch>
+<TLuch_NAME>Первичной опухоли / ложа опухоли</TLuch_NAME>
+<DATEBEG>01.09.2018</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<ID_TLuch>2</ID_TLuch>
+<TLuch_NAME>Метастазов</TLuch_NAME>
+<DATEBEG>01.09.2018</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<ID_TLuch>3</ID_TLuch>
+<TLuch_NAME>Симптоматическая</TLuch_NAME>
+<DATEBEG>01.09.2018</DATEBEG>
+<DATEEND>31.12.2018</DATEEND>
+</zap>
+</packet>

@@ -1,0 +1,517 @@
+<packet>
+<zglv>
+<type>KoPr</type>
+<version>1.0</version>
+<date>19.12.2017</date>
+</zglv>
+<zap>
+<IDK_PR>1</IDK_PR>
+<K_PRNAME>для беременных и рожениц (акушерское дело)</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>2</IDK_PR>
+<K_PRNAME>патологии беременности (акушерское дело)</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>3</IDK_PR>
+<K_PRNAME>койки сестринского ухода (акушерское дело)</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>4</IDK_PR>
+<K_PRNAME>для беременных и рожениц (акушерство и гинекология)</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>5</IDK_PR>
+<K_PRNAME>патологии беременности (акушерство и гинекология)</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>6</IDK_PR>
+<K_PRNAME>гинекологические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>7</IDK_PR>
+<K_PRNAME>гинекологические для детей</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>8</IDK_PR>
+<K_PRNAME>гинекологические для вспомогательных репродуктивных технологий (акушерство и гинекология)</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>9</IDK_PR>
+<K_PRNAME>аллергологические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>10</IDK_PR>
+<K_PRNAME>реанимационные (анестезиология и реаниматология)</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>11</IDK_PR>
+<K_PRNAME>реанимационные для новорожденных (анестезиология и реаниматология)</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>12</IDK_PR>
+<K_PRNAME>интенсивной терапии (анестезиология и реаниматология)</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>13</IDK_PR>
+<K_PRNAME>интенсивной терапии для новорожденных (анестезиология и реаниматология)</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>14</IDK_PR>
+<K_PRNAME>гастроэнтерологические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>15</IDK_PR>
+<K_PRNAME>гематологические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>16</IDK_PR>
+<K_PRNAME>геронтологические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>17</IDK_PR>
+<K_PRNAME>дерматологические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>18</IDK_PR>
+<K_PRNAME>венерологические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>19</IDK_PR>
+<K_PRNAME>кардиологические для детей</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>20</IDK_PR>
+<K_PRNAME>онкологические для детей</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>21</IDK_PR>
+<K_PRNAME>уроандрологические для детей</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>22</IDK_PR>
+<K_PRNAME>хирургические для детей</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>23</IDK_PR>
+<K_PRNAME>эндокринологические для детей</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>24</IDK_PR>
+<K_PRNAME>инфекционные</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>25</IDK_PR>
+<K_PRNAME>лепрозные</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>26</IDK_PR>
+<K_PRNAME>кардиологические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>27</IDK_PR>
+<K_PRNAME>кардиологические интенсивной терапии</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>28</IDK_PR>
+<K_PRNAME>кардиологические для больных с острым инфарктом миокарда</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>29</IDK_PR>
+<K_PRNAME>проктологические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>30</IDK_PR>
+<K_PRNAME>реабилитационные соматические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>31</IDK_PR>
+<K_PRNAME>реабилитационные для больных с заболеваниями центральной нервной системы и органов чувств</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>32</IDK_PR>
+<K_PRNAME>реабилитационные для больных с заболеваниями опорно-двигательного аппарата и периферической нервной системы</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>33</IDK_PR>
+<K_PRNAME>реабилитационные наркологические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>34</IDK_PR>
+<K_PRNAME>неврологические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>35</IDK_PR>
+<K_PRNAME>неврологические для больных с острыми нарушениями мозгового кровообращения</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>36</IDK_PR>
+<K_PRNAME>неврологические интенсивной терапии</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>37</IDK_PR>
+<K_PRNAME>психоневрологические для детей</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>38</IDK_PR>
+<K_PRNAME>нейрохирургические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>39</IDK_PR>
+<K_PRNAME>патологии новорожденных и недоношенных детей</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>40</IDK_PR>
+<K_PRNAME>для новорожденных</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>41</IDK_PR>
+<K_PRNAME>нефрологические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>42</IDK_PR>
+<K_PRNAME>онкологические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>43</IDK_PR>
+<K_PRNAME>онкологические торакальные</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>44</IDK_PR>
+<K_PRNAME>онкологические абдоминальные</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>45</IDK_PR>
+<K_PRNAME>онкоурологические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>46</IDK_PR>
+<K_PRNAME>онкогинекологические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>47</IDK_PR>
+<K_PRNAME>онкологические опухолей головы и шеи</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>48</IDK_PR>
+<K_PRNAME>онкологические опухолей костей, кожи и мягких тканей</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>49</IDK_PR>
+<K_PRNAME>онкологические паллиативные</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>50</IDK_PR>
+<K_PRNAME>оториноларингологические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>51</IDK_PR>
+<K_PRNAME>оториноларингологические для кохлеарной имплантации</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>52</IDK_PR>
+<K_PRNAME>офтальмологические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>53</IDK_PR>
+<K_PRNAME>паллиативные</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>54</IDK_PR>
+<K_PRNAME>сестринского ухода (паллиативная медицинская помощь)</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>55</IDK_PR>
+<K_PRNAME>педиатрические соматические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>56</IDK_PR>
+<K_PRNAME>хирургические (пластическая хирургия)</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>57</IDK_PR>
+<K_PRNAME>профпатологические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>58</IDK_PR>
+<K_PRNAME>психиатрические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>59</IDK_PR>
+<K_PRNAME>психосоматические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>60</IDK_PR>
+<K_PRNAME>соматопсихиатрические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>61</IDK_PR>
+<K_PRNAME>психиатрические для судебно-психиатрической экспертизы</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>62</IDK_PR>
+<K_PRNAME>наркологические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>63</IDK_PR>
+<K_PRNAME>пульмонологические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>64</IDK_PR>
+<K_PRNAME>радиологические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>65</IDK_PR>
+<K_PRNAME>ревматологические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>66</IDK_PR>
+<K_PRNAME>кардиохирургические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>67</IDK_PR>
+<K_PRNAME>сосудистой хирургии</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>68</IDK_PR>
+<K_PRNAME>скорой медицинской помощи краткосрочного пребывания</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>69</IDK_PR>
+<K_PRNAME>скорой медицинской помощи суточного пребывания</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>70</IDK_PR>
+<K_PRNAME>стоматологические для детей</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>71</IDK_PR>
+<K_PRNAME>терапевтические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>72</IDK_PR>
+<K_PRNAME>токсикологические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>73</IDK_PR>
+<K_PRNAME>торакальной хирургии</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>74</IDK_PR>
+<K_PRNAME>травматологические, ортопедические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>75</IDK_PR>
+<K_PRNAME>ортопедические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>76</IDK_PR>
+<K_PRNAME>хирургические (трансплантация костного мозга и гемопоэтических стволовых клеток)</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>77</IDK_PR>
+<K_PRNAME>урологические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>78</IDK_PR>
+<K_PRNAME>туберкулезные</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>79</IDK_PR>
+<K_PRNAME>гнойные хирургические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>80</IDK_PR>
+<K_PRNAME>хирургические (хирургия)</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>81</IDK_PR>
+<K_PRNAME>абдоминальной хирургии</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>82</IDK_PR>
+<K_PRNAME>ожоговые (хирургия (комбустиология))</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>83</IDK_PR>
+<K_PRNAME>хирургические (хирургия (трансплантация органов и (или) тканей))</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>84</IDK_PR>
+<K_PRNAME>челюстно-лицевой хирургии</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDK_PR>85</IDK_PR>
+<K_PRNAME>эндокринологические</K_PRNAME>
+<DATEBEG>01.10.2016</DATEBEG>
+<DATEEND/>
+</zap>
+</packet>

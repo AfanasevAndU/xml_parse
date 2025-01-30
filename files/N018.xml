@@ -1,0 +1,49 @@
+<packet>
+<zglv>
+<type/>
+<version>1.3</version>
+<date>17.12.2018</date>
+</zglv>
+<zap>
+<ID_REAS>0</ID_REAS>
+<REAS_NAME>Первичное лечение (лечение пациента за исключением прогрессирования и рецидива)</REAS_NAME>
+<DATEBEG>01.09.2018</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<ID_REAS>1</ID_REAS>
+<REAS_NAME>Лечение при рецидиве</REAS_NAME>
+<DATEBEG>01.09.2018</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<ID_REAS>2</ID_REAS>
+<REAS_NAME>Лечение при прогрессировании</REAS_NAME>
+<DATEBEG>01.09.2018</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<ID_REAS>3</ID_REAS>
+<REAS_NAME>Динамическое наблюдение</REAS_NAME>
+<DATEBEG>01.09.2018</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<ID_REAS>4</ID_REAS>
+<REAS_NAME>Диспансерное наблюдение (здоров/ремиссия)</REAS_NAME>
+<DATEBEG>01.09.2018</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<ID_REAS>5</ID_REAS>
+<REAS_NAME>Диагностика (при отсутствии специфического лечения)</REAS_NAME>
+<DATEBEG>01.09.2018</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<ID_REAS>6</ID_REAS>
+<REAS_NAME>Симптоматическое лечение</REAS_NAME>
+<DATEBEG>01.09.2018</DATEBEG>
+<DATEEND/>
+</zap>
+</packet>

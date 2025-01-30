@@ -1,0 +1,25 @@
+<packet>
+<zglv>
+<type/>
+<version>1.0</version>
+<date>26.09.2018</date>
+</zglv>
+<zap>
+<IDCZ>1</IDCZ>
+<N_CZ>Острое</N_CZ>
+<DATEBEG>01.09.2018</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDCZ>2</IDCZ>
+<N_CZ>Впервые в жизни установленное хроническое</N_CZ>
+<DATEBEG>01.09.2018</DATEBEG>
+<DATEEND/>
+</zap>
+<zap>
+<IDCZ>3</IDCZ>
+<N_CZ>Ранее установленное хроническое</N_CZ>
+<DATEBEG>01.09.2018</DATEBEG>
+<DATEEND/>
+</zap>
+</packet>
