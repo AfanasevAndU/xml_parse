@@ -1,0 +1,64 @@
+<packet>
+ <zglv>
+  <type>
+  </type>
+  <version>
+   1.0
+  </version>
+  <date>
+   26.09.2018
+  </date>
+ </zglv>
+ <zap>
+  <idvn>
+   1
+  </idvn>
+  <n_vn>
+   Направление к онкологу
+  </n_vn>
+  <datebeg>
+   01.09.2018
+  </datebeg>
+  <dateend>
+  </dateend>
+ </zap>
+ <zap>
+  <idvn>
+   2
+  </idvn>
+  <n_vn>
+   Направление на биопсию
+  </n_vn>
+  <datebeg>
+   01.09.2018
+  </datebeg>
+  <dateend>
+  </dateend>
+ </zap>
+ <zap>
+  <idvn>
+   3
+  </idvn>
+  <n_vn>
+   Направление на дообследование
+  </n_vn>
+  <datebeg>
+   01.09.2018
+  </datebeg>
+  <dateend>
+  </dateend>
+ </zap>
+ <zap>
+  <idvn>
+   4
+  </idvn>
+  <n_vn>
+   Направление для определения тактики обследования и/или тактики лечения
+  </n_vn>
+  <datebeg>
+   01.09.2018
+  </datebeg>
+  <dateend>
+  </dateend>
+ </zap>
+</packet>

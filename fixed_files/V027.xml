@@ -1,0 +1,51 @@
+<packet>
+ <zglv>
+  <type>
+  </type>
+  <version>
+   1.0
+  </version>
+  <date>
+   26.09.2018
+  </date>
+ </zglv>
+ <zap>
+  <idcz>
+   1
+  </idcz>
+  <n_cz>
+   Острое
+  </n_cz>
+  <datebeg>
+   01.09.2018
+  </datebeg>
+  <dateend>
+  </dateend>
+ </zap>
+ <zap>
+  <idcz>
+   2
+  </idcz>
+  <n_cz>
+   Впервые в жизни установленное хроническое
+  </n_cz>
+  <datebeg>
+   01.09.2018
+  </datebeg>
+  <dateend>
+  </dateend>
+ </zap>
+ <zap>
+  <idcz>
+   3
+  </idcz>
+  <n_cz>
+   Ранее установленное хроническое
+  </n_cz>
+  <datebeg>
+   01.09.2018
+  </datebeg>
+  <dateend>
+  </dateend>
+ </zap>
+</packet>

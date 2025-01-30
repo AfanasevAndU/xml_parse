@@ -1,0 +1,64 @@
+<packet>
+ <zglv>
+  <type>
+  </type>
+  <version>
+   1.0
+  </version>
+  <date>
+   26.09.2018
+  </date>
+ </zglv>
+ <zap>
+  <idmet>
+   1
+  </idmet>
+  <n_met>
+   Лабораторная диагностика
+  </n_met>
+  <datebeg>
+   01.09.2018
+  </datebeg>
+  <dateend>
+  </dateend>
+ </zap>
+ <zap>
+  <idmet>
+   2
+  </idmet>
+  <n_met>
+   Инструментальная диагностика
+  </n_met>
+  <datebeg>
+   01.09.2018
+  </datebeg>
+  <dateend>
+  </dateend>
+ </zap>
+ <zap>
+  <idmet>
+   3
+  </idmet>
+  <n_met>
+   Методы лучевой диагностики, за исключением дорогостоящих
+  </n_met>
+  <datebeg>
+   01.09.2018
+  </datebeg>
+  <dateend>
+  </dateend>
+ </zap>
+ <zap>
+  <idmet>
+   4
+  </idmet>
+  <n_met>
+   Дорогостоящие методы лучевой диагностики (КТ, МРТ, ангиография)
+  </n_met>
+  <datebeg>
+   01.09.2018
+  </datebeg>
+  <dateend>
+  </dateend>
+ </zap>
+</packet>

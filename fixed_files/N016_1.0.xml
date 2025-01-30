@@ -1,0 +1,65 @@
+<packet>
+ <zglv>
+  <type>
+   OnkLek_V
+  </type>
+  <version>
+   1.0
+  </version>
+  <date>
+   11.04.2018
+  </date>
+ </zglv>
+ <zap>
+  <id_tlek_v>
+   1
+  </id_tlek_v>
+  <tlek_name_v>
+   Первый цикл линии
+  </tlek_name_v>
+  <datebeg>
+   01.09.2018
+  </datebeg>
+  <dateend>
+  </dateend>
+ </zap>
+ <zap>
+  <id_tlek_v>
+   2
+  </id_tlek_v>
+  <tlek_name_v>
+   Последующие циклы линии (кроме последнего)
+  </tlek_name_v>
+  <datebeg>
+   01.09.2018
+  </datebeg>
+  <dateend>
+  </dateend>
+ </zap>
+ <zap>
+  <id_tlek_v>
+   3
+  </id_tlek_v>
+  <tlek_name_v>
+   Последний цикл линии (лечение прервано)
+  </tlek_name_v>
+  <datebeg>
+   01.09.2018
+  </datebeg>
+  <dateend>
+  </dateend>
+ </zap>
+ <zap>
+  <id_tlek_v>
+   4
+  </id_tlek_v>
+  <tlek_name_v>
+   Последний цикл линии (лечение завершено)
+  </tlek_name_v>
+  <datebeg>
+   01.09.2018
+  </datebeg>
+  <dateend>
+  </dateend>
+ </zap>
+</packet>
